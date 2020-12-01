@@ -1,5 +1,5 @@
 function home(){
-    return <div>Teste</div>
+    return <h1>Teste</h1>
 
 
 
